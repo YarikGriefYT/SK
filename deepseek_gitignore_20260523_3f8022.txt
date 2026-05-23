@@ -1,0 +1,16 @@
+# Compiled files
+server
+client
+*.o
+*.exe
+
+# Data files from server
+users.txt
+friends.txt
+offline_*.txt
+history_*.txt
+
+# IDE
+.vscode/
+.idea/
+*.swp
